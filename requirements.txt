@@ -1,0 +1,16 @@
+backoff==2.2.1
+branca==0.7.2
+certifi==2024.7.4
+charset-normalizer==3.3.2
+folium==0.17.0
+googlemaps==4.10.0
+idna==3.7
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+numpy==2.0.1
+opencage==2.4.0
+phonenumbers==8.13.42
+python-dotenv==1.0.1
+requests==2.32.3
+urllib3==2.2.2
+xyzservices==2024.6.0
